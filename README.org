@@ -1,0 +1,15 @@
+#+title: Readme
+#+author: Ingmar Metzler
+
+
+
+
+
+
+
+* Description
+Ever wondered how to share your expenses after a holiday with friends or a party night?
+Have you tried out apps but found them too clunky or not versatile enough?
+** Features
+- Share bills with your friends
+- define a weight for how much each person should contribute (ie half the amount of others for children)
