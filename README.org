@@ -13,3 +13,5 @@ Have you tried out apps but found them too clunky or not versatile enough?
 ** Features
 - Share bills with your friends
 - define a weight for how much each person should contribute (ie half the amount of others for children)
+- add negative spendings to model earnings or borrowing
+- Export the settlement matrix to easily share it
